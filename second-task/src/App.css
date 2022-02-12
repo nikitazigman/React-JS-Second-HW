@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;500&display=swap");
+
+.App {
+  font-family: "Inter", sans-serif;
+}
+
+main {
+  padding: 82px 40px;
+}
